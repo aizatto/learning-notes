@@ -259,3 +259,122 @@ By minimising the number of layers and by giving product managers more scope ove
 ## Strategy
 
 A good strategy is not a plan; it's a framework that helps you make decisions. Product strategy connects the vision and economic outcomes of the company back to product portfolio, individual product initiatives, and solution options for the teams. Strategy creation is the process of determining the direction of the company and developing the framework in which people make decisions.
+
+Netflix's vision in 2005 was "to provide movies and TV shows in the most convenient and easy way for customers", they didn't see DVDs as the end point. They knew that if they truly wanted to become the most convenient vehicle by which people would watch movies, it had to figure out a way to get entertainment into the hands of its users faster. Because they started early on, their streaming technology wasn't fast enough to download movies, but once the internet got faster they company expected to see more people downloading videos. But it didn't happen. Netflix realised that only internet-enabled devices at the time were laptops and home computers, and that they weren't the most convenient and delightful way to watch movies. Netflix decided to build its own internet-connected device plugged into TVs for years but a few days before lunch, Reed Hastings shut it down. Hastings realised if they launched their own devide, they couldn't partner with anyone else. He would be in the business of hardware, not software or entertainment, and that wasn't part of Netflix core vision; it didn't align with the overall strategy.
+
+Netflix is an example of a company that got out of the build trap, they focused the entire company around a solid vision "becoming the best global entertainment distribution service, licensing entertainment content around the world, creating markets that are accesible to film makers, and helping content creators around the world to find a global audience". This vision states not only why the company exists but also the plan for getting there.
+
+Netflix self-organised around key outcomes and strategies to help reach its goals. Gibson Biddle, who was VP of product at Netflix aligned his team around a common guideline for evaluating its product strategy "delight customers, in margin-enhancing, hard-to-copy ways".
+
+Key strategies   | Tactics                                              | Metrics
+-----------------|------------------------------------------------------|--------
+Personalised     | Ratings Wizard, Netflix Prize                        | % of customers who rate >= 50 titles at 6 weeks; RMSE
+Instant          | Hub expansion, streaming                             | % of disks delivered in one day; % of customers who watch >= 15 min/month
+Margin-enhancing | Previously viewed, advertising, price & plan testing | Gross margin, LTV
+Easy             | Simplify and kill; progressive disclosure            | % of customers with >= titles in queue on day one
+
+**The powerful thing about a strategic framework is that it forces you to think about the whole before zooming in on the details.** When a company thinks only about the feature-level model, it loses track of the outcomes those features should produce.
+
+### What is strategy?
+
+You can't figure out the right product until you know what problem are you solving. Often people don't want a strategy, they want a plan. A good strategy isn't a detailed plan. It's a framework that helps you make decisions.
+
+Many companies spend months in "strategic planning" for the following year, creating comprehensive and detailed outlines of the tasks they will accomplish, the cost of those actions, and the revenue they will generate. **Thinking of strategy as a plan is what gets us into the build trap.** Stephan Bungay, one of the most respected leaders in strategy deployment and creation, in his book "The Art of Action" he writes:
+
+> Strategy is a deployable decision-making framework, enabling action to achieve desired outcomes, constrained by current capabilities, coherently aligned to the existing context.
+
+### Strategic gaps
+
+While studying strategy in many organisations, Stephen Bungay discovered that when companies approach strategy as a plan, they often fail.
+
+#### The knowledge gap
+
+The Knowledge Gap is the difference between what management would like to know and what the company actually knows.
+
+Instead of seeking more detailed information, upper management should be limiting its direction to defining and communicating the _strategic intent_, or the goals of the business. **The strategic intent communicates where the company is heading and what it desires to achieve when it gets there, it points the team toward the outcomes the business wants to achieve. The company needs to provide room for experimentation and to understand the _why_ before it could suggest the _how_ to solve the problem.**
+
+> We know there is a problem, the next step is to discover that problem, tackle it with a solution, and then try to optimise the solution so we can increase acquisition.
+
+#### The alignment gap
+
+**This is the difference between what people do and what management wants them to do, which is to achieve business goals. Organisations try to fill this gap by providing more detailed instruction; whereas, instead, they should allow each level within the company to define how it will achieve the intent of the next level up.**
+
+> At one company, I walked around asking all of the product managers on the hundred or so teams why they were working on their current project. I then asked their leaders the same question. I got two different answers. They could not connect the activities of the teams back to the outcomes of the companies because leadership had passed down feature requests rather than expected outcomes and goals. As soon as those feature requests were committed, it was nearly impossible to change them because the company expected them to be delivered.
+> **When teams realise customers don't want their solution, they should have the freedom to explore alternative solutions. This is how a product-led organisation should operate.**
+
+Product teams need the freedom to explore solutions and to adjust their actions according to the data they receive. Management should feel comfortable granting the necessary autonomy to capable teams. **Instead of sending down mandates, organisations should, instead, turn to aligning every level of the company around the _why_ and should give the next layer down the opportunity to figure out the _how_ and report back.** When leadership is not aligned at the top, the issues trickle all the way down to teams.
+
+#### The effects gap
+
+This is the difference between what we expect our actions to achieve and what actually happens. When organisations do not see the results they want, they try to fill the gap by putting more controls in place. However, that is the worst thing you can do in this scenario. Giving individuals and teams the freedom to adjust their actions so that they are in line with their goals is what truly allows them to achieve results.
+
+We should strive to align teams with a framework of goals and direction and then stepping back to give that team the room to explore.
+
+Prescribing fully though-out solutions restricts product teams to only those parameters instead of being able to focus on learning and adjusting their decisions as they go. You need to view strategy in a different way. You should enable action to achieve results.
+
+#### Autonomous teams
+
+At Marketly, Product Managers often said
+
+> I keep having leaders tell me to own the vision of my product, but I'm not allowed. My manager keeps handling me solutions. Every time I try to suggest something different, I'm shut down.
+
+In contrast to what leaders said
+
+> Our product managers won't step up and own the product. I have to keep prescribing things for them, but it's because they don't take initiative.
+
+When teams are not aligned with a clear direction and goals, they cannot effectively make decisions. If they dare to try, much of the time, the leader steps in and says "No, that's not right".
+
+**Autonomy is what allows organisations to scale. The alternative is hiring hundreds of thousands of middle managers that lead by authority, telling people what to do. Which is not only inefficient but also causes unnecessary layers in management and a lot of frustration.**
+
+Leading by authority is a relic of industrial-age methodologies, when low-skilled workers were supervised closely so that their output was maximised. **In the world of software, we don't work this way in.** When you have that sort of talent, you need to give people room to make decisions so that you can get the full benefit of their knowledge and skill. That's what a strategic framework promotes.
+
+### Creating a good strategic framework
+
+Marketly CEO originally thought the issues were with the development teams "they aren't going fast enough, they are slacking off", and although the company had OKRs, they were very output-oriented instead of outcome-oriented "Ship the first version of the new teacher platform" or "Delivery by June 2018". Key results weren't tied to any outcome, either business or user-oriented. Everyone would emerge with a list of features to build and then dole them out to the product managers. Product managers then were responsible for estimating. After reporting estimates back, they would then plan the budget to organise the roadmap. Goals were set on the leadership level, as well. Every part of the company was measuring something and yet, the company was not meeting its goals for the past years.
+
+The issues detected were a few. The leadership team was prioritising the work itself, based on what it thought it was right to build rather than on feedback by customers. It was reacting to the customers that screamed the loudest instead of evaluating whether those requests matched the strategic objectives. The morale was low.
+
+**A good company strategy should be made up of two parts: the operational framework, or how to keep the day-to-day activities of a company moving; and the strategic framework, or how the company realises the vision through product and service deployment in the market.**
+
+Trying budgeting, strategy, and product development to an artificial yearly time cycle only creates a lack of focus and follow-through. Think of the major pieces of work you do that are actually _bets_.
+
+Spotify operates using something called DIBBs (Data, Insights, Beliefs, and Bets). The concept of thinking of initiatives as bets is powerful because it sets up a different type of expectation. Spotify sets up an environment in which it's safe to try new things and fail.
+
+#### Strategy deployment
+
+Strategies are interconnecting stories told through the organisation.
+
+> Agile teams are really good at telling two-to-four-week stories. As you go up in the organisation, you tell stories with longer timespans. Executives are really goodat telling five-year stories, but a team cannot act on a five-year story when they're used to thinking in two-to-four weeks. – Jade Bloom
+
+While executives might be looking at a five-year strategy, middle management is thinking in smaller strategies – yearly or quarterly – bounding teams in a direction that allows them to make decisions on a monthly to weekly basis.
+
+When teams are not sufficiently constrained, they become stuck
+
+> They feel like they cannot make a decision because there are too many options – Jade Bloom
+
+Not having the right level of direction lands us in the build trap.
+
+OKRs is a type of strategy deployment used by Google. Hoshin Kanri is a strategy deployment method used by Toyota. Even the military uses strategy deployment with mission command. Setting the direction for each level of an organisation so they can act. In most product organisations there should be four major levels in strategy deployment:
+
+* Vision
+* Strategic intent
+* Product initiatives
+* Options
+
+#### Strategy creation
+
+Is the process of figuring out which direction the company should act. This takes time and focus to craft and maintain. You need to be identifying problems and determining how to organise around solving them at every level. If you are in the C-Suite this should be your top priority.
+
+You must first understand the vision, or where you want to go. Then we can identify problems or obstacles standing in our way.
+
+In Toyota, the continuous improvement framework is called the Improvement Kata. The Kata teaches people in the company how to strategically tackle problems to reach goals (explained in Mike Rother's book Toyota Kata).
+
+Through this act of exploring and identifying problems, you uncover data that is needed to help inform the strategy and vision. Vision is not set solely top-down by management. The entire organisation should be sharing information as they learn about. Bloom calls this information Physics.
+
+> The teams should be out there, analysing, testing, and learning and then communicating what they discover back to their peers and their management teams. This is how we set strategy.
+
+**This process of communicating data and direction up and down – and across – the organisation is how we maintain alignment.**
+
+### Company-level vision and strategic intents
+
+#### Company vision
