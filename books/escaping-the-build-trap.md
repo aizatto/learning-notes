@@ -524,3 +524,55 @@ When the problem that you are solving is core to your value proposition, take a 
 ### Understanding the direction and setting success metrics
 
 #### Product metrics
+
+Metrics tell you how healthy is your product, and ultimately, your business.
+
+Unfortunately, teams end up measuring **_vanity metrics_. Goals that look shiny and impressive because they always get bigger.** For example, people get excited by the number of users they have on their product, the daily page views, or how many logins their system has. These metrics do not cause you to change your behavior or priorities.
+
+You can easily turn a vanity metric into an actionable metric by adding a time component to it. For example, do you have more users this month than the last? Consider the meaning behind the metrics and how they help inform your decisions and understanding.
+
+Additionally, product teams often measure output-oriented metrics such as the number of features shipped, story points complete or user stories worked on. Although these are good productivity metrics, these are not product metrics. They cannot tie the results of product development back to the business.
+
+There are many product frameworks available to help you think about the appropriate product goals.
+
+#### Pirate metrics
+
+Pirate metrics were created by Dave McClure, founder of 500 Startups, to talk about the life cycle of users through your product. Thinking of it as a funnel. Users finding your product is _acquisition_; users having a great first experience is _activation_; keeping users returning to your product is called _retention_; users recommending others because they love your product is _referral_; and finally, users paying for your product because they see value in it is _revenue_. Put it all together AARRR – Pirate metrics.
+
+Acquisition is that users land on your site and sign up. Activation is when someone takes the first step with your product toward having a great experience. **This path works for consumer products with a _freemium_ attribute.** If you are a B2B product with a sales team, you generate revenue before users have activation. You can swap the order of these to match your product's flow.
+
+As this works as a funnel, you can easily calculate the conversion through each step.
+
+Understanding how many people are in each phase of the funnel also lets you target those cohorts and figure out how to move them into the next one.
+
+Although Pirate Metrics is popular, some people saw the flaw that it did not talk about user satisfaction. Kerry Rodden, a Googler, created the [HEART metrics](https://library.gv.com/how-to-choose-the-right-ux-metrics-for-your-product-5f46359ab5be) for this.
+
+#### The HEART framework
+
+HEART metrics measure _happiness_, _engagement_, _adoption_, _retention_, and _task success_. Adoption is similar to activation in Pirate Metrics because you are talking about someone using the product for the first time. Retention is the same as in Pirate Metrics. Happiness is a measure of how satisfied the user is with the product. Engagement is a measure of how often users interact with the product. Task success measures how easy it is for a user to accomplish what they were meant to with the product.
+
+#### Setting direction with data
+
+Retention is a lagging indicator. It will be months before you have solid data to show that people stayed with you. That's why we also need to measure leading indicators such as activation, happiness, and engagement. Leading indicators tell us whether we're on our way to achieving those lagging indicators like retention. In the case of retention, you can qualify what keeps people retained, for example, happiness and usage of the product.
+
+One of the first things every company should do is to implement a metrics platform. Amplitude, Pendo.ai, Mixpanel, Intercom, and Google Analytics are all data platforms, and they all enable product managers to make well-informed decisions.
+
+You won't be able to set success metrics without investigating the problem. This is why we first need problem exploration.
+
+### Problem exploration
+
+#### Understanding the problem
+
+Although data analysis is important, it can't tell the entire story. So, **it's essential that we all go talk to actual humans and get to the heart of their problems.**
+
+Giff Constable created an entire book called _Talking to Humans_. User research, observations, surveys, and customer feedback are all tools that you can harness to better explore the problem from a user standpoint. User research, in this case, is not to be mistaken for _usability testing_, which involves showing a prototype or website and directing people to complete actions. There, you are learning whether they can use and navigate the solution easily, not whether the solution actually solves the problem. This type of research is called _evaluative_.
+
+Problem-based user research is _generative research_, meaning that its purpose is to find the problem you want to solve. Going to the source of the customer's problem and understanding the context around it. Trying to identify the pain point and the root cause of the problem.
+
+**It's easy to fall into the trap of solving problems before you find their root causes. We're all prone to problem solve, even if we don't know what the problem is.**
+
+It's also easy to become attached to solution ideas. "Nobody wants to hear their baby is ugly". The way around this is not to get too attached. Kill the bad ideas before they take up too much time and energy from the teams and before you get hooked on them. Instead, **fall in love with the problem you are solving.**
+
+By getting into the mindset of solving problems early, you allow much more time to build the right thing, because you're not wasting time chasing after the wrong things.
+
+#### breaking down barriers and getting creative
