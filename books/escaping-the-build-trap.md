@@ -378,3 +378,149 @@ Through this act of exploring and identifying problems, you uncover data that is
 ### Company-level vision and strategic intents
 
 #### Company vision
+
+The company vision sets the direction and provides meaning for everything that follows.
+
+Amazon is an example of a company with a great vision and strategy:
+
+> To be Earth's most customer-centric company where customers can find and discover anything they might want to buy online, and endeavors to offer its customers the lowest possible prices
+
+If you are a single-product company, your company's vision is very similar or even the same as your product vision. By keeping an eye on the overall vision, people can make effective decisions about the things that they should and shouldn't pursue. The strategy needs to start at the corporate level, moving through the business lines, and ultimately arriving at the products. At these types of companies, products are just details on how the company vision is manifested. They are the vehicles for value.
+
+**A good _mission_ explains why the company exists. A _vision_ explains where the company is going based on that purpose.** The best thing a company can do is to combine both the mission and vision in one statement to provide the value proposition of the company – what the company does, why it does it, and how it wins doing that.
+
+Examples of compelling vision statements:
+
+> At Bank of America, we are guided by a common purpose to help financial lives better by connecting clients and communities to the resources they need to be successful – Bank of America
+
+> Becoming the best global entertainment distribution service, licensing entertainment content around the world, creating markets that are accessible to film-makers, and helping content creators around the world to find a global audience – Netflix
+
+**They are short, memorable, and clearly articulated. They don't include fluffy terminology.** You do need to focus your company around where you want to concentrate. **It's okay to want to be the best on the market or the market leader, but you need to give some context on how.** Leaders need to spend time communicating their vision, you must tell a story.
+
+The difficult part is connecting the vision back to the company's operations. This is where company leaders must specify _strategic intents_.
+
+#### Strategic intents
+
+This is how you intent to reach that vision changes as your company matures and develops. **Strategic intents communicate the company's current areas of focus that help realise the vision.**
+
+When determining the intents, the C-Suite of the company should ask **"what is the most important thing we can do to reach our vision, based on where we are now?"** These should not be laundry list of desires or goals, **they just need to be a few key things that need to happen to make a big leap forward.**
+
+Instead of dictating these solutions down to the teams, leadership should focus on creating strategic intents. **Getting the right level and number of intents is very important. Too many higher-level goals, and you are back to peanut buttering.** One intent is usually good for a small company, and three are plenty for a large organisation.
+
+Strategic intents are about the whole company, not just the product solution.
+
+### Product vision and portfolio
+
+**Product initiatives translate the business goals into the problems that we will solve with our product.** The product initiatives answer _how_?
+
+A product initiative could be something like the following:
+
+> As a Netflix subscriber, I want to be able to watch Netflix anywhere, with anyone, comfortably.
+
+There are many solutions (_options_) to solve this problem, and they have to be aligned to this product initiative.
+
+**Options are your bets, sometimes the solution will be readily apparent, but other times you need to experiment to find the solution.**
+
+**Product initiatives set the direction for the product teams to explore options.**
+
+#### Product vision
+
+Companies often have trouble aligning around a _product vision_. Often they end up with too many products and no coherent vision. Building one-off products to satisfy individual customer requests, failing to address a wider audience. Too many people, too little direction, and no holistic approach. Often revealing a bigger issue, the lack of an overall vision.
+
+Although delivering multiple features and delivering value is a good thing, **we need something to tie it all together at the top. The product vision communicates why you are building something and what the value proposition is for the customer.**
+
+The product vision emerges from experimentation, you need to be careful not to make the product vision too specific. **It cannot describe every little feature but should include more of the main capabilities it enables for the user**.
+
+An example for a vision at Marketly:
+
+> We help marketing professionals to advance their skills by allowing them to understand their current competencies, easily find the most relevant classes to get to the next level, and then learn the skills they need in the most engaging and digestible fashion, from world-class teaches in the marketing space.
+
+The VP of Product should make sure everyone is aligned with this holistic vision.
+
+#### Product portfolio
+
+Companies with more than one product wrap their products under what is called a _product portfolio_.
+
+The CPO is responsible for setting the direction and overseeing the product portfolio. The CPO answers these questions for their team:
+* How do all of our products work as a system to provide value to our customers?
+* What unique value does each of the product lines offer that makes this a compelling system?
+* What overall values and guidelines should we consider when deciding on new product solutions?
+* What should we stop doing or building because it does not serve this vision?
+
+Leaders often complain that they don't have time to innovate. Usually, this is due to poor capacity planning and strategy creation. **It's not that you don't have time to innovate; it's that you are not _making time_ to innovate. You are going to need to say no to some things.**
+
+### Product management process
+
+> #### Marketly product initiatives
+>
+> We believe that by increasing the amount of content in our site in key areas of interest, we can acquire more individual users and retain existing users, resulting in a potential revenue increase of $2,6555,000 per month from individual users.
+>
+> _Options to explore_:
+> * Easier and faster ways for teachers to create courses
+> * Feedback loops for teachers on areas of interest for students
+> * Outreach to new teachers who can create courses in areas of interest
+
+**Usually, when we think about processes, we focus more on the act of developing software than we do about building the right software. This is the build trap.**
+
+### The product kata
+
+The process by which we uncover the right solutions to build is called the [Product Kata](https://melissaperri.com/blog/2015/07/22/the-product-kata).
+
+The Product Kata is highly inspired by the Toyota Kata, which was a Continuous Improvement framework that creates the habit of improving by focusing on learning. It teaches you how to analyse problems and then create small experiments to solve them. Every team member is responsible for improving the company's processes.
+
+1. Understand the **direction**. What challenge are you striving to meet?
+2. Grasp the current **condition**. What is the process's current pattern?
+3. Establish the next **target condition**. What pattern do you want to have next?
+4. **Plan-do-check-act (cycle)** toward the target condition. The step-by-step discovery process between where you are and where you want to be next.
+
+Management will set the challenge while teams grasp the current condition and establish target conditions.
+
+Next, you follow the Coaching Kata to plan the steps to get to the next target condition. The coach is a team member who asks the following questions during every meeting. The whole team answers and plans the work. The questions are the following:
+
+1. What is the **target condition**?
+2. What is the **actual condition**?
+   Reflect on the last step taken. You don't actually know what the result of a step will be!
+   1. What was your **last step**?
+   2. What did you **expect**?
+   3. What **actually happened**?
+   4. What did you **learn**?
+3. What **obstacles** do you think are preventing you from reaching the target condition? Which **one* are you addressing now?
+4. What is your **next step**? (next plan-do-check-act cycle / experiment) What do you expect?
+5. When can we go and see what we **have learned** from taking that step?
+   Reflect on the last step taken. You don't actually know what the result of a step will be!
+   1. What was your **last step**?
+   2. What did you **expect**?
+   3. What **actually happened**?
+   4. What did you **learn**?
+
+Now the process applied to Product is what is called Product kata and the continuous product improvement
+
+1. Company goal, product KPI, future state.
+2. What are the users doing now? (planning)
+3. What is the first little goal?
+4. User research, product experiments (experimenting)
+
+---
+
+The first task is to get to the product initiative and determine what problems you can solve to further the strategic intent. We then need to break the success metrics into something we can measure on a shorter time scale. We call this the _team goal_, and it's how we measure the success of the option. The team goal should be something we can measure after every release.
+
+#### Context matters
+
+After we have set the goal, we begin walking the Product Kata:
+1. What is the goal?
+2. Where are we now in relation to that goal?
+3. What is the biggest problem or obstacle standing in the way of me reaching that goal?
+4. How do I try to solve that problem?
+5. What do I expect to happen (hypothesis)?
+6. What actually happened, and what did we learn?
+
+We answer questions one through four to figure out how to plan our next move as a team. Five and six, determine whether to go back to the beginning for the next round. These questions take us to problem exploration, solution exploration and solution optimisation.
+
+When considering whether to experiment around a particular solution
+> Don't spend your time overdesigning and creating unique, innovative solutions for things that are not core to your value proposition. If someone has already solved that problem with a best practice, learn from that, implement their solutions, gather data to determine if it's successful in your situation, and then iterate. Reserve your time and energy for the things that will make or break your value proposition. – Zappos former head of UZ, Brian Kalma
+
+When the problem that you are solving is core to your value proposition, take a step back and don't rush into the first solution. The best thing you can do at the experimentation stage is to kill the bad ideas! The fewer, the better.
+
+### Understanding the direction and setting success metrics
+
+#### Product metrics
