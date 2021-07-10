@@ -575,4 +575,82 @@ It's also easy to become attached to solution ideas. "Nobody wants to hear their
 
 By getting into the mindset of solving problems early, you allow much more time to build the right thing, because you're not wasting time chasing after the wrong things.
 
-#### breaking down barriers and getting creative
+#### Breaking down barriers and getting creative
+
+In many companies, it's difficult, or even impossible, to talk to the customer, usually due to corporate bureaucracy. **In a consumer industry, you can usually reach out to friends of friends who use the product or have the right background. In a B2B environment, you can work with the sales or account managers to have them be your research spies – asking the questions you might need to know during their sales calls or follow-up meetings.**
+
+You have to remember that is not the customer's job to solve their own problems. It's your job to ask them the right questions.
+
+### Solution exploration
+
+#### Experimenting to learn
+
+**Companies often confuse the _building to learn_ and _building to earn_. Experimentation is all about building to learn.** Experiments should not be designed to last for a long time, they are meant to prove whether a hypothesis is true or false, and, in software, we want to do this as quickly as possible.
+
+When we use an MVP only to get a feature out quicker, we're usually cutting corners on a great experience in the process. We sacrifice the amount we can learn from. The most important piece of the MVP is the learning, "the minimum amount of effort to learn".
+
+Experiments are designed to help companies learn faster. We are not creating stable, robust, and scalable products.
+
+The Product Kata is great for this, it always asks the question "What do you need to learn next?".
+
+Concierge, Wizard of Oz, and concept testing are three examples of solution experiments. With any experiment, it is important to think of how you will end it. Setting expectations on experiments with your customers is key to keeping them happy. Explain to them why you are testing, when and how the experiement will end, and what you plan to do next. Communication is key to a successful experimentation process.
+
+#### Concierge
+
+Concierge experiments deliver the end result to your client manually, but they do not look like the final solution at all. Your customers will understand that you're doing it manually and that it's not automated. Concierge experiments are particularly interesting for B2B companies because this is how many of these companies got started, by taking on the work for the customers and then later automating it.
+
+These experiments don't scale, given that it's labor-intensive. You should conduct these experiments with just enough users so that you can stay in regular contact with them, get plenty of feedback.
+
+#### Wizard of Oz
+
+This is a method you can use for reaching a broader audience for feedback. It looks and feels like a real, finished product. Customers don't know that, on the backend, it's all manual. This is a great technique when you are looking for feedback at scale.
+
+Companies are tempted to leave Wizard of Oz experiments up for a long time because they look real to the customers. This is not wise because it is still manual on the backend.
+
+Wizard of Oz can be combined with techniques such as A/B testing. Although, you wouldn't want to use A/B testing in two instances: if you were very unsure about your solution direction or if you did not have enough traffic on those pages to have significance.
+
+#### Concept testing
+
+It focuses more on high-touch interaction with the customer. You try to demonstrate or show concepts to the user to gauge their feedback. From landing pages and low-fidelity wireframes to higher-fidelity prototypes or videos of how the service might play out. The idea is to pitch the solution idea in the fastest, lightest way possible to convey the message.
+
+In many early-stage companies, concept testing is the way they get early sales or capital.
+
+#### When you don't need to experiment robustly
+
+The mentioned tools are used for higher amounts of uncertainty and, thus, larger risk in your solution ideas. In a case where the team knows the problem and the solution, it's time to implement it. There is no need for up-front testing.
+
+You should still be building to learn instead of rushing into a complete solution, but there are other tools you can harness, such as prototypes.
+
+Prototypes are the most popular tool for testing. They don't require any code, and there are many software products out there that can help you link screens together to make the flow feel real. **Prototypes don't make sense when you need to validate the problem.** You'd be spinning your wheels creating shiny designs that look great but don't help you to learn what you need to learn.
+
+#### Experimenting in complex industries
+
+If we take too long to get feedback, we not only waste money but also waste time. The opportunity cost of building the wrong thing is too high.
+
+#### Experimenting on internal products
+
+You should do it. If people can't figure out how to use tools, that's on you, not them. Internal tools are often neglected, but they still matter to the company. They need to be treated the same way as any other product.
+
+### Building and optimising your solution
+
+#### Evolving the product vision
+
+After the direction is set for the product vision, it's important to make sure everyone understands the context and work that needs to be done. Story mapping and North Star documents are two ways to help teams find alignment around the vision.
+
+**A North Star document explains the product in a way that can be visualised by the entire team and company. This includes the problem it is solving, the proposed solution, the solution factors that matter for success, and the outcomes the product will result in.**
+
+North Stars are great for providing context to a wide audience. They should be evolved over time, as you learn more about your product. This is not an action plan, it does not include how the team will be building the product. That is where _story mapping_ comes in.
+
+_Story mapping_ is a technique created by the product management veteran and consultant Jeff Patton, to make sure people understood the work and to prioritise the first release. It helps teams break down their work and align around goals. "It's purpose is to help the team communicate about their work and what needs to get done to deliver value". This includes breaking down each desired action from the user standpoint.
+
+#### Prioritising work
+
+Prioritisation is a top issue for most product managers. There are many frameworks out there that will help you prioritise, like _benefits mapping_, _Kano models_ or Cost of Delay.
+
+In the book _The Principles of Product Development Flow_, Don Reinersten talks about the importance of the Cost of Delay. Cost of Delay is a numeric value that describes the impact of time on the outcomes you hope to achieve. It combines urgency and value so that you can measure impact and prioritise what you should be doing first.
+
+Consider the trade-offs between the amount of value you can capture with the scope of the release and the time it takes to get it out the door. It's an optimisiation problem. You want to reduce scope enough so that you can capture the maximum value in the right time. If you wait too long because you overscoped the release, you lose the money you could have been making. Worse, a competitor could swoop in and steal your market. On the flip side, you don't want to release something that is terrible and provides minimal benefit to the user in order to get it out early.
+
+You should discuss each feature or feature component in terms of urgency and value. If it is high urgency, that means that ever moment you do not ship that feature to customers, you are losing out an opportunity to hit your goal. **High value is about solving the strongest problems or desires for the customer.**. Learn more, head to [Black Swan Farming](https://blackswanfarming.com/).
+
+#### The real definition of done
