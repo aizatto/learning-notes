@@ -654,3 +654,97 @@ Consider the trade-offs between the amount of value you can capture with the sco
 You should discuss each feature or feature component in terms of urgency and value. If it is high urgency, that means that ever moment you do not ship that feature to customers, you are losing out an opportunity to hit your goal. **High value is about solving the strongest problems or desires for the customer.**. Learn more, head to [Black Swan Farming](https://blackswanfarming.com/).
 
 #### The real definition of done
+
+When teams create their Definition of Done, it's usually around finishing building features required to ship a product. It sets the wrong expectations about what a finished feature is. **We are done developing or iterating on a feature only when it has reached its goals. We need to measure the outcomes.**
+
+Teams should set the success criteria before the launch while measuring and iterating until they reach it. Being able to talk to customers, oriented to outcomes, and with the required space provided by the leadership team to figure out how to achieve those outcomes. These are the marks of a product-led company. Culture, policies, and structure are the things that really set a company apart to thrive in product management.
+
+## The product-led organisation
+
+> The product-led organisation is characterised by a culture that understands and organises around outcomes over outputs, including a company cadence that revolves around evaluating its strategy in accordance to meeting outcomes. In product-led organisations, people are rewarded for learning and achieving goals. Management encourages product teams to get close to their customers, and product management is seen as a critical function that furthers the business.
+
+Kodak made good strides in trying to innovate, but its organisation prevented it from doing so. The company was reactive than strategic, waiting too long to respond to a threat. **When people work in silos, innovation often happens in a separated place without the proper resources to fully execute on what is being discovered.** The fate faced by Kodak can be avoided by adopting a product-led mindset.
+
+You can be making an effort to understand customers and to conduct good research, but without the organisation to sustain it, the efforts are too little, too late. You need to become a product-led organisation, both in mentality and in practice.
+
+### Outcome-focused communication
+
+Companies stuck in the build trap are usually not patient enough to see outcomes emerge, so they instead measure progress by the number of features shipped.
+
+Leaders will say that they want to achieve results, but at the end of the day, they still measure success by features shipped. People want to feel like they are accomplishing things. Checking off the boxes of finished work feels good, but we need to remember that this is not the only measure of success. It's important to have a cadence of communciation that shows progress at every level of the organisation, tailored to each specific audience.
+
+#### Cadences and communication
+
+**Visibility in organisations is absolutely key. The more leaders can understand where teams are, the more they will step back and let the team execute.** If you keep things transparent, you will have more freedom to become autonomous. Companies tend to fall into bad habits because they have not figured out how to consistently communicate progress in the form of outcomes. When leaders do not see progress toward goals, they quickly resort to their old ways.
+
+There are a few core meetings to evaluate progress:
+* **Quarterly business review**: The senior leadership team should discuss progress toward the strategic intents and outcomes of a financial nature. Reviewing revenue for the quarter, churn of customers, and costs associated with the development of operations. The CPO and their VPs of product are responsible for communicating how the outcomes of product initiatives have furthered strategic intents. **This is not the place to prioritise new product initiatives or to go into detail on them. That is what the product initiative review is for.**
+* **Product initiative review**: This is a quarterly meeting dedicated for the product development side of the house – CPO, CTO, design leaders, VPs of Product and product managers. Here you review the progress of the options against the product initiatives and adjust our strategy accordingly. This is the place for product managers to talk about the results of preliminary experimentation. New product initiatives can be introduced in this meeting for feedback and buy-in.
+* **Release reviews**: These provide the opportunity for teams to show off the hard work they have done and to talk about success metrics. These should happen monthly, before features go out, to showcase what is in the pipeline to be released. You should be communicating only what we know is going to ship, not the experiments or research being conducted. Executives can join to see what is being shipped out to customers. This can also be a place to communicate the roadmaps internally so other departments and the executive team are aware.
+
+#### Roadmaps and sales teams
+
+Instead of thinking of roadmaps as a Gantt chart, you should view them as an explanation of strategy and the current stage of your product. To do this, the product roadmap should be updated constantly (_Living Roadmaps_). You should design your communication to match your audience. A great book on how to set a roadmap is the book _Product Roadmaps Relaunched_.
+
+Roadmaps consist of a few key parts:
+* The theme
+* Hypothesis
+* Goals and success metrics
+* Stage development
+* Any important milestones
+
+You should align your company around certain terminology to describe stages of development. We can use these four phases:
+* Experiment: At this stage we want to understand the problem and to determine whether it's worth solving. Teams are conducting problem exploration and solution exploration activities. No production code is being created.
+* Alpha: Stage to find out if the proposed solution is desirable to the customers. Production code gets built and is live for a small set of users. These users understand that they are getting early access to a feature that might change or be killed.
+* Beta: Stage to find out if the solution is scalable, from a technical standpoint.
+* Generally Available (GA): The solution is widely available to all of our clients. Sales teams can talk openly about GA products.
+
+Poorly-constructed roadmaps are the source of much tension between product and sales.
+
+Although communicating status can be scary, given the variable nature of software development, it's also necessary. **Product management enables the sales strategy.** Sales still needs something to sell. Creating working agreements and roadmaps that can be communicated to customers is key to developing a good relationship between product and sales.
+
+#### Product operations
+
+As product teams scale to more than a few teams, keeping track of progress, goals, and processes becomes a challenge. Teams need to focus on growing their product, and operations work becomes too much of a distraction. At Marketly they ended up implementing a product operations team, run by a chief of staff who reported to the CPO. This was a very small team (two people) to help streamline operations and reporting. This allowed product people to focus on what they were good at, while product operations helped them to make ifnormed decisions, by surfacing up those reports.
+
+This team was responsible for:
+* Collecting data on progress toward goals and outcomes across teams.
+* Report on goals, outcomes, roadmaps, progress, capacity, and costs.
+* Set up and maintain a product analytics platform to report on product engagement metrics.
+* Standardise product progresses that go across teams, such as strategy cadences, experimentation tracking and feedback, documentaiton on product features, collecting data, setting goals, creating and maintaining roadmaps, and sales enablement.
+* Organise and run critical product meetings for strategy creation, strategy deployment and releases.
+* Conduct any coaching or training for the product teams.
+
+The point of this team is not to dictate how the members of a team work together to build the product, but instead to create the citeria for inputs and outputs of the work. They are not dictating whether a team can talk to users. They are creating systems that help teams figure out which users to target for their experimentation.
+
+The product operations team should be made up a combination of project managers and product people. "Success for you would be automating away your team". This is not a team that is meant to be large. It's an efficiency engine dedicated to automating, streamlining, and optimising.
+
+### Rewards and incentives
+
+To often Product Managers say "It doesn't matter what the goal is. We just have to deliver this feature". They are being forced into the build trap by company policy. Shipping product instead of learning or solving problems for customers is what gets you into the build trap. People become afraid to try anything new. The best advice is to push back.
+
+If you don't have the seniority, you can still try to change the minds of the people who can bring those messages up the chain. Talk to your bosses about what success really means. Define your metrics for when you know you will be done. Always come with data.
+
+Most sales teams are held accountable to selling, signing the contracts and bringing in the revenue. Many teams overpromise in order to make their commission numbers.
+
+Imagine being in company where the Sales team oversold so much the development team has to run two years behind. Customers wold get angry and this would lead to high churn. Sales teams would target the wrong customers in order to make numbers. These customers would leave quickly.
+
+We want to incentivise sales teams to keep selling, but adjusting the components of their salary so that their livelihood does not depend too mucho n the commision percentages can help to mitigate this risk. Trying retention numbers to their success metrics.
+
+### Safety and learning
+
+There may not be enough safety in the organisation to fail and learn. **Product managers need a certain amount of trust from the organisation to have room to explore different options.** Teams are going to have tro try some perceivaly wild stuff. If they are not allowed to explore these weird paths, they will never push for the status quo.
+
+Remember, **it is not a success if you fail and o not learn.** Learning should be at the core of every product-led organisation. It should be what drives us.
+
+It is also better to fail in smaller ways earlier, rather than spending all the time and money failing a publickly large way.
+
+Many companies talk about how they want their people to be innovative and how they want to create crazy new products, but there has to be an understanding that it's safe to fail in order to get innovation. The irony is that experimentation is the ultimate risk-management strategy because when you experiment early, you can preent failure.
+
+Taking 10 years to fail, slowly burning through cash and never getting anyware is more problematic than allowing for smaller failures along the way.
+
+If you adopt a great product mindset and you give people the freedom to fail, what you're doing is allowing them to fail quickly, quietly, and at a lower cost because they're testing things early. That's the type of failure you want to encourage. That's the type of failure from which we can recover.
+
+Leaders who give people the room to do that see the best results and avoid the build trap. It's also the leader's job to give people boundaries within which to operate. There are many different ways to create boundaries. You can segment your user base into populations for Alpha and Beta testing, start with small representative population, learn from them and then expand. Allows you to contain the rollback if the product doesn't work.
+
+### Budgeting
