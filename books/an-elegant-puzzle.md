@@ -926,7 +926,7 @@ These long hours burn your heroes out, and they will either quit or you shove th
 
 If hard work and breeding heroes doesn't work, what does?
 
-If you set the original direction and hve the leverage to change directions, then resetting is as simple as standing up and taking the bullet for the fiasco you're embroiled in.
+If you set the original direction and have the leverage to change directions, then resetting is as simple as standing up and taking the bullet for the fiasco you're embroiled in.
 
 Without policy, your tool is stepping back and allowing the brokenness to collapse under its own weight. You conserve your energy and avoid creating rifts by pushing others away in hero mode, and you will be ready to be part of new, hopefully functional, system after the reset.
 
